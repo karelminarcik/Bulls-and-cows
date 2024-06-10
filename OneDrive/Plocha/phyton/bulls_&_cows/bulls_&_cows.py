@@ -1,3 +1,15 @@
+"""
+
+bulls_&_cows.py: druhy projekt do Engeto Online Python Akademie
+
+author: Karel Minarčík
+
+email: k.minarcik@seznam.cz
+
+discord: Karel Minarčík | karlos9957
+
+"""
+
 from my_functions import secret_number, is_valid_guess, bulls_and_cows
 
 # Getting value for high score if exists
